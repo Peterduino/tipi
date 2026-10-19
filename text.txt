@@ -1,0 +1,6 @@
+Accel : Acceleration vector
+Magne : Magnetic Field Strength vector
+Gyro  : Angular Velocity                 but in deg/s
+Eulr. : Absolute orientation (euler)
+LinA. : Linear acceleration
+Gravi : Gravity vector
